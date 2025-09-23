@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2018",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Creative Writing"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Nonfiction Prose"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Poetry"
+    ]
+  ],
+  "legacy_uid": "36b49f1e-3554-bfff-2dd9-4171083fb6d0",
+  "instructors": {
+    "content": [
+      "fc57cbef-6bfc-df67-f23e-7792dd21362a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "907eb2ec-8360-2d54-b273-463b7e5bc831",
+    "website": "11-s948-seeing-the-city-afresh-spring-2018"
+  },
+  "course_title": "Seeing the City Afresh",
+  "course_description": "This course explores the city through writing\u2014listening to the voices of poets, short story writers, novelists, journalists, critics, historians, ethnographers, urbanists, musicians, filmmakers, and visual artists. Through extensive reading that informs their work on a longform story, students will join the chorus of storytellers to richly represent the variegated city. Our focus is on three nonfiction forms\u2014essay, memoir, literary narrative\u2014with special emphasis on the writer-editor relationship and on revision as a heuristic to better thinking.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.S948",
+  "course_image_thumbnail": {
+    "content": "d1f0482a-868d-1af3-73fa-eb5f70be21fe",
+    "website": "11-s948-seeing-the-city-afresh-spring-2018"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "2c209a39-7712-413c-aa3f-f1918ec34134",
+  "site_short_id": "11.s948-spring-2018",
+  "site_url_path": "courses/11-s948-seeing-the-city-afresh-spring-2018",
+  "title": "Course Metadata"
+}

@@ -1,0 +1,17 @@
+leftnav:
+- identifier: 8c6c53e0-9890-3954-5629-4124b86efe45
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 979ddd68-2923-a04a-7750-42482de8a50f
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 4ca6d70d-3226-7f10-a436-138a53bb15e2
+  name: Primary Course Texts
+  pageRef: /pages/primary-course-texts
+  weight: 30
+- identifier: 7e306fdf-1bb6-359c-46d3-9d6cafe0be80
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 40
